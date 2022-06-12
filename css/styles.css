@@ -1,0 +1,32 @@
+body
+{
+    background-color: #e1f9f9;
+}
+
+h1
+{
+    color: #251212;
+    background-color: #bfe9fe;
+    font-family: Segoe Print;
+}
+
+h3
+{
+    color: #251212;
+    background-color: #bfe9fe;
+}
+
+hr
+{
+    background-color: white;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%
+}
+
+ul
+{
+    line-height: 1.8;
+}
