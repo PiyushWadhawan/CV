@@ -1,6 +1,11 @@
-.star:hover
+a
 {
-    background-color: green;
+    color: #016ea9;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #119696;
 }
 
 body
@@ -29,6 +34,11 @@ hr
     border-width: 5px;
     height: 0px;
     width: 5%
+}
+
+.star:hover
+{
+    background-color: green;
 }
 
 ul
